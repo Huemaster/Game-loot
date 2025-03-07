@@ -1,5 +1,7 @@
-Used PHP , HTML , CSS , MySQL to create a community-driven platform helps gamers discover and share the best deals on video games with a team of 4.
--
-Designed and implemented features such as user-submitted deals, automated deal expiration, and a wish list with real-time deal alerts, enhancing user engagement and platform functionality.
--
-Contributed to front-end and back-end development, focusing on database integration and dynamic content display for seamless user experience.
+Game Loot Project
+
+-Developed a community-driven platform for gamers to discover and share the best deals on video games using PHP, HTML, CSS, and MySQL.
+
+-Implemented key features such as user-submitted deals, automated deal expiration, and a wishlist with real-time alerts, improving user engagement.
+
+-Worked on both front-end and back-end, focusing on database integration and dynamic content display for a seamless user experience.
